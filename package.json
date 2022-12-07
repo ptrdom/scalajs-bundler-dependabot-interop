@@ -2,7 +2,7 @@
   "private": true,
   "license": "UNLICENSED",
   "dependencies": {
-    "neat": "^2.0.0"
+    "neat": "^2.1.0"
   },
   "devDependencies": {
     "concat-with-sourcemaps": "1.0.7",
